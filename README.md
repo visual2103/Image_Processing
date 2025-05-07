@@ -1,5 +1,6 @@
 # Color Image Segmentation Using Region Growing
 
+![image](https://github.com/user-attachments/assets/88391d4e-2b2b-45a1-93fe-df24916d8107)
 ## Project Overview
 
 This project aims to segment a color image into multiple regions based on color similarity. The goal is to group pixels with similar colors into coherent areas using the **Region Growing** algorithm. This method is useful for image analysis, object detection, and handling noisy or poorly delimited images.
@@ -92,4 +93,4 @@ Tested on standard color BMP images (e.g., Lena, shapes) available [here](https:
 **Author**: Alina Macavei  
 **Year**: 2025  
 
-![image](https://github.com/user-attachments/assets/88391d4e-2b2b-45a1-93fe-df24916d8107)
+
